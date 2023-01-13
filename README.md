@@ -11,7 +11,7 @@
 
 - 😄 Pronomes: ele/dele
 
-- 📄 Confira meu LinkedIn:
+- 📄 Confira meu LinkedIN: [https://www.linkedin.com/in/joaovictorrosatagliarini/](https://www.linkedin.com/in/joaovictorrosatagliarini/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
