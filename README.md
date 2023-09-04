@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente, estou cursando [Engenharia de Computação na Facens](https://facens.br/cursos/graduacao/engenharia-de-computacao/)
 
-- 🌱 Atualmente, estou estudando **SQL e JAVA**
+- 🌱 Atualmente, estou estudando **React Native**
 
-- 💬 Pergunte-me sobre **C, Arduino, SQL e JAVA**
+- 💬 Pergunte-me sobre **C, Arduino, SQL Server, PostgreSQL, JAVA, Angular e .NET**
 
 - 📫 Como entrar em contato comigo: **joaovictorosa.tagliarini@gmail.com**
 
